@@ -1,2 +1,2 @@
 ﻿# AlojamientoLS
-## creacion de pagina web para alojamiento la serena utilizando BS + SASS
+### creacion de pagina web para alojamiento la serena utilizando BS + SASS
